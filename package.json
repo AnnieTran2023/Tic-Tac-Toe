@@ -1,9 +1,8 @@
 {
-  "hompage":"https://github.com/AnnieTran2023/Tic-Tac-Toe",
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AnnieTran2023/Tic-Tac-Toe-Game",
+  "homepage": "https://AnnieTran2023.github.io/Tic-Tac-Toe-Game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
