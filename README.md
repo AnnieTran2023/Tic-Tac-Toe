@@ -3,7 +3,7 @@
 ## Overview
 This is a simple Tic-Tac-Toe game built with React. It allows two players to take turns marking spaces on a 3x3 grid until one player wins or the game ends in a draw.
 
-<img src="main-screen.png" alt="main page" style="width: 500px; height: auto;">
+<img src="main-screen.png" alt="main page" style="width: auto; height: 500px;">
 
 ## Features
 - **Two Player Gameplay:** Play against a friend locally on the same device.
